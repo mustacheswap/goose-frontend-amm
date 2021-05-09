@@ -72,6 +72,10 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
+      // {
+      //  label: 'Hacken Audit',
+      //  href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+      // },
       {
         label: "Github",
         href: "https://github.com/mustacheswap/",
@@ -91,10 +95,10 @@ const config: MenuEntry[] = [
   //  icon: 'GooseIcon',
   //  href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
   // },
-  // {
-  //  label: 'Audit by Hacken',
-  //  icon: 'AuditIcon',
-  //  href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+   {
+    label: 'Hacken Audit',
+    icon: 'AuditIcon',
+    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
    },
   // {
   // label: 'Audit by CertiK',
