@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.mustacheswap.com/'
+    href: 'https://www.mustacheswap.com/',
   },
   {
     label: 'Trade',
@@ -13,23 +13,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchance.mustacheswap.com/'
+        href: 'https://exchance.mustacheswap.com/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.mustacheswap.com/#/pool'
-      }
-    ]
+        href: 'https://exchange.mustacheswap.com/#/pool',
+      },
+    ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.mustacheswap.com/farms'
+    href: 'https://www.mustacheswap.com/farms',
   },
   {
-    label: 'Nests',
+    label: 'Barber',
     icon: 'PoolIcon',
-    href: 'https://www.mustacheswap.com/nests'
+    href: 'https://www.mustacheswap.com/barber',
   },
   // {
   //   label: 'Pools',
