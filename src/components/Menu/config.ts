@@ -52,7 +52,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/XXXXX', //Instert mustache address
+        href: 'https://pancakeswap.info/token/0x0000000000000000000000000000000000000000', // Instert mustache address
       },
       {
         label: 'CoinGecko',
@@ -64,7 +64,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/XXXXXXX', //mustache-busd
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x0000000000000000000000000000000000000000', // mustache-busd
       },
     ]
   },
