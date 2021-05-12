@@ -13,7 +13,7 @@
     {
       "name": "Mustache",
       "symbol": "MUSTACHE",
-      "address": "XXXXX", // Mustache contract address
+      "address": "0x0000000000000000000000000000000000000000", 
       "chainId": 56,
       "decimals": 18
     },
