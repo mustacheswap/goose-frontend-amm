@@ -60,7 +60,7 @@ export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } 
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
     ],
     [BUSD, USDT],
-    [DAI, USDT]
+    [DAI, USDT],
     [MUSTACHE, USDC],
     [MUSTACHE, USDT],
   ]
