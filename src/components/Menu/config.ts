@@ -22,7 +22,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'Club',
     icon: 'FarmIcon',
     href: 'https://www.mustacheswap.com/farms',
   },
