@@ -54,19 +54,19 @@ const config: MenuEntry[] = [
         label: 'PancakeSwap',
         href: 'https://pancakeswap.info/token/0x0000000000000000000000000000000000000000', // Instert mustache address
       },
-      {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/mustacheswap',
-      },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/mustacheswap/',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x0000000000000000000000000000000000000000', // mustache-busd
-      },
-    ]
+      // {
+      //   label: 'CoinGecko',
+      //   href: 'https://www.coingecko.com/en/coins/mustacheswap',
+      // },
+      // {
+      //   label: 'CoinMarketCap',
+      //   href: 'https://coinmarketcap.com/currencies/mustacheswap/',
+      // },
+      // {
+      //   label: 'AstroTools',
+      //   href: 'https://app.astrotools.io/pancake-pair-explorer/0x0000000000000000000000000000000000000000', // mustache-busd
+      // },
+    ],
   },
   {
     label: 'More',
@@ -95,11 +95,11 @@ const config: MenuEntry[] = [
   //  icon: 'GooseIcon',
   //  href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
   // },
-   {
-    label: 'Hacken Audit',
-    icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-   },
+  // {
+  //   label: 'Hacken Audit',
+  //   icon: 'AuditIcon',
+  //   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+  //  },
   // {
   // label: 'Audit by CertiK',
   //  icon: 'AuditIcon',
